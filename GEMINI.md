@@ -1,0 +1,1 @@
+Verify all the assests after you deploy them using gcloud commands
